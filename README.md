@@ -5,10 +5,10 @@ This project is a coupon inventory system. It allows the user to view the coupon
 Classes included in this project and their methods: 
 
 1. CIS class:
-	a. main– responsible for running the project, includes both the initial and main menu of the application.
-	b. readCoupons – responsible for reading the file to the ArrayList of Coupon objects
-	c. addCoupons – allows the user to append the ArrayList with a manually input coupon
-	d. searchCoupons – allows the user to search for a coupon by its fields:
+*a. main– responsible for running the project, includes both the initial and main menu of the application.
+	*b. readCoupons – responsible for reading the file to the ArrayList of Coupon objects
+	*c. addCoupons – allows the user to append the ArrayList with a manually input coupon
+	*d. searchCoupons – allows the user to search for a coupon by its fields:
 		1. Product name 
 		2. Price
 		3. Provider
@@ -16,7 +16,7 @@ Classes included in this project and their methods:
 		5. Expiration 
 		6. Status
 		7. Final Price
-	e. sortAndDisplay – allows the user to view the coupons SORTED by either:
+	*e. sortAndDisplay – allows the user to view the coupons SORTED by either:
 		1. Product name 
 		2. Price
 		3. Provider
